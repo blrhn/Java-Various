@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>pwr.edu.pl</groupId>
+        <artifactId>lab01</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <!-- This needs to be specified -->
+    <!-- Every Maven project has a packaging type, if not specified; default is jar -->
+    <packaging>jlink</packaging>
+    <artifactId>mod-jlink</artifactId>
+
+    <properties>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <!-- Defining modules that should be linked into Java Run Time Image (dependencies) -->
+    <dependencies>
+        <dependency>
+            <groupId>pwr.edu.pl</groupId>
+            <artifactId>lib</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>pwr.edu.pl</groupId>
+            <artifactId>ui</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <!-- The plugin needs to be configured as an extension -->
+                <artifactId>maven-jlink-plugin</artifactId>
+                <version>3.2.0</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <launcher>
+                        filezipper=pwr.edu.pl.ui/pwr.edu.pl.ui.testpackage.A
+                    </launcher>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
+
+<!-- https://maven.apache.org/plugins/maven-jlink-plugin/jlink-mojo.html -->
+<!-- https://maven.apache.org/plugins/maven-jlink-plugin/usage.html -->
+
+<!-- https://docs.oracle.com/javase/9/install/installed-directory-structure-jdk-and-jre.htm#JSJIG-GUID-5CD31FB7-D906-4F4D-BEF6-353FBC68D4F7 -->
+
+<!-- Creating the Java Run Time Image -->
+<!-- mvn clean package -->
+
+<!-- Installing resulting Java Run Time Image files into local cache -->
+<!-- mvn clean install -->
+
+<!-- Deploying resulting artifact to a remote repository -->
+<!-- mvn clean deploy -->
