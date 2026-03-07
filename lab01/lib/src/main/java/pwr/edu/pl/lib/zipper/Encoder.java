@@ -1,4 +1,4 @@
-package pwr.edu.pl.lib;
+package pwr.edu.pl.lib.zipper;
 
 import java.io.BufferedInputStream;
 import java.io.File;

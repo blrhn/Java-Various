@@ -1,16 +1,24 @@
-package pwr.edu.pl.lib;
+package pwr.edu.pl.lib.zipper;
 
-import java.io.*;
+import pwr.edu.pl.lib.zipper.utils.Utils;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.List;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
 public class Zipper {
-    public void createZipArchive(List<File> files, String archiveName) {
+    public File createZipArchive(List<File> files, File saveDirectory, String archiveName) {
         String safeArchiveName = ensureZipExtension(archiveName);
+        File finalArchive = getFinalPath(saveDirectory, safeArchiveName);
 
         try (
-                FileOutputStream fileOutputStream = new FileOutputStream(safeArchiveName);
+                FileOutputStream fileOutputStream = new FileOutputStream(finalArchive);
                 ZipOutputStream zipOutputStream = new ZipOutputStream(fileOutputStream);
         ) {
             for (File file : files) {
@@ -19,14 +27,14 @@ public class Zipper {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
+        return finalArchive;
     }
 
-    public void createZipArchiveSHA256(List<File> files, String archiveName) {
-        String safeArchiveName = ensureZipExtension(archiveName);
-
-        createZipArchive(files, safeArchiveName);
-        String hash = Encoder.sha256(new File(safeArchiveName));
-        saveHashCode(hash, safeArchiveName);
+    public void createZipArchiveSHA256(List<File> files, File saveDirectory, String archiveName) {
+        File archive = createZipArchive(files, saveDirectory, archiveName);
+        String hash = Encoder.sha256(archive);
+        saveHashCode(hash, archive.getAbsolutePath());
     }
 
     private void zipFileOrDirectory(File file, String pathName, ZipOutputStream zipOutputStream) throws IOException {
@@ -48,26 +56,16 @@ public class Zipper {
         } else {
             zipOutputStream.putNextEntry(new ZipEntry(pathName));
             try (FileInputStream fileInputStream = new FileInputStream(file)) {
-                transferStream(fileInputStream, zipOutputStream);
+                Utils.transferStream(fileInputStream, zipOutputStream);
             }
 
             zipOutputStream.closeEntry();
         }
     }
 
-    private void transferStream(FileInputStream fileInputStream, ZipOutputStream zipOutputStream) throws IOException {
-        byte[] buffer = new byte[8192];
-        int length;
 
-        if (fileInputStream != null) {
-            while ((length = fileInputStream.read(buffer)) >= 0) {
-                zipOutputStream.write(buffer, 0, length);
-            }
-        }
-    }
-
-    private void saveHashCode(String hash, String archiveName) {
-        try (PrintWriter pw = new PrintWriter(archiveName + ".sha256")) {
+    public void saveHashCode(String hash, String name) {
+        try (PrintWriter pw = new PrintWriter(name + ".sha256")) {
             pw.write(hash);
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
@@ -80,5 +78,9 @@ public class Zipper {
         }
 
         return archiveName;
+    }
+
+    private File getFinalPath(File saveDirectory, String archiveName) {
+        return new File(saveDirectory, archiveName);
     }
 }
