@@ -4,29 +4,25 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.control.*;
-import javafx.scene.layout.GridPane;
+import javafx.scene.control.CheckBox;
+import javafx.scene.control.ListView;
+import javafx.scene.control.TableView;
+import javafx.scene.control.TextField;
 import javafx.stage.DirectoryChooser;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
+import pwr.edu.pl.lib.Encoder;
 import pwr.edu.pl.lib.Zipper;
 
 import java.io.File;
 import java.util.List;
 
 public class ViewController {
-    @FXML private Button archiveButton;
     @FXML private TextField archiveNameTextField;
-    @FXML private GridPane baseGrid;
     @FXML private TableView<?> checkTableView;
-    @FXML private Button chooseArchiveButton;
-    @FXML private Button chooseDirectoryButton;
-    @FXML private Button chooseFilesAndArchivesButton;
-    @FXML private Button chooseFilesButton;
-    @FXML private Button generateHashButton;
     @FXML private CheckBox generateHashCheckbox;
-    @FXML private TextArea hashTextArea;
-    @FXML private ListView<?> selectedArchiveListView;
+    @FXML private TextField hashCodeTextField;
+    @FXML private ListView<File> selectedArchiveListView;
     @FXML private ListView<File> selectedFilesListView;
 
     private Stage stage;
@@ -35,10 +31,23 @@ public class ViewController {
 
     public void initialize() {
         markTextAreasAsReadOnly();
+        populateFilesToBeArchived();
     }
 
     @FXML
     void archivize(ActionEvent event) {
+        String archiveName = archiveNameTextField.getText().trim();
+
+        if (selectedFilesToBeArchived.isEmpty() || archiveName.isEmpty()) {
+            return;
+        }
+
+        if (generateHashCheckbox.isSelected()) {
+            zipper.createZipArchiveSHA256(selectedFilesToBeArchived, archiveName);
+        } else {
+            zipper.createZipArchive(selectedFilesToBeArchived, archiveName);
+        }
+
     }
 
     @FXML
@@ -49,14 +58,16 @@ public class ViewController {
         if (selectedFilesTemp != null) {
             selectedFilesToBeArchived.add(selectedFilesTemp);
         }
-
-        populateFilesToBeArchived();
-
     }
 
     @FXML
     void chooseFile(ActionEvent event) {
+        FileChooser fileChooser = new FileChooser();
+        File chosenFile = fileChooser.showOpenDialog(stage);
 
+        if (chosenFile != null) {
+            selectedArchiveListView.setItems(FXCollections.observableArrayList(chosenFile));
+        }
     }
 
     @FXML
@@ -68,7 +79,6 @@ public class ViewController {
             selectedFilesToBeArchived.addAll(chosenFiles);
         }
 
-        populateFilesToBeArchived();
     }
 
     @FXML
@@ -78,7 +88,13 @@ public class ViewController {
 
     @FXML
     void generateHash(ActionEvent event) {
+        if (selectedArchiveListView.getItems().isEmpty()) {
+            return;
+        }
 
+        File selectedFile = selectedArchiveListView.getItems().getFirst();
+        String hash = Encoder.sha256(selectedFile);
+        hashCodeTextField.setText(hash);
     }
 
     public void setStage(Stage stage) {
@@ -86,7 +102,7 @@ public class ViewController {
     }
 
     private void markTextAreasAsReadOnly() {
-        hashTextArea.setEditable(false);
+        hashCodeTextField.setEditable(false);
     }
 
     private void populateFilesToBeArchived() {
