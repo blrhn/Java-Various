@@ -1,4 +1,4 @@
-package pwr.edu.pl.ui.controller;
+package ui.controller;
 
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.beans.property.SimpleStringProperty;
@@ -14,10 +14,10 @@ import javafx.scene.control.TextField;
 import javafx.stage.DirectoryChooser;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
-import pwr.edu.pl.lib.validator.HashValidator;
-import pwr.edu.pl.lib.validator.model.CheckedFile;
-import pwr.edu.pl.lib.zipper.Encoder;
-import pwr.edu.pl.lib.zipper.Zipper;
+import lib.validator.HashValidator;
+import lib.validator.model.CheckedFile;
+import lib.zipper.Encoder;
+import lib.zipper.Zipper;
 
 import java.io.File;
 import java.util.List;

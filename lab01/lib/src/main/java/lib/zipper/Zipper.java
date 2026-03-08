@@ -1,6 +1,6 @@
-package pwr.edu.pl.lib.zipper;
+package lib.zipper;
 
-import pwr.edu.pl.lib.zipper.utils.Utils;
+import lib.zipper.utils.Utils;
 
 import java.io.File;
 import java.io.FileInputStream;

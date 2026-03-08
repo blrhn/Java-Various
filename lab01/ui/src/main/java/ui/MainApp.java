@@ -1,11 +1,11 @@
-package pwr.edu.pl.ui;
+package ui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import pwr.edu.pl.ui.controller.ViewController;
+import ui.controller.ViewController;
 
 import java.io.IOException;
 

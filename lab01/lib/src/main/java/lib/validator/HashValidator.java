@@ -1,8 +1,8 @@
-package pwr.edu.pl.lib.validator;
+package lib.validator;
 
-import pwr.edu.pl.lib.validator.model.CheckedFile;
-import pwr.edu.pl.lib.validator.model.HashStatus;
-import pwr.edu.pl.lib.zipper.Encoder;
+import lib.validator.model.CheckedFile;
+import lib.validator.model.HashStatus;
+import lib.zipper.Encoder;
 
 import java.io.BufferedReader;
 import java.io.File;

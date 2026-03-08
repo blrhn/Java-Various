@@ -1,4 +1,4 @@
-package pwr.edu.pl.lib.validator.model;
+package lib.validator.model;
 
 import java.io.File;
 

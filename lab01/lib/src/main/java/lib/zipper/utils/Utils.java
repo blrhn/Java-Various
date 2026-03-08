@@ -1,4 +1,4 @@
-package pwr.edu.pl.lib.zipper.utils;
+package lib.zipper.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;

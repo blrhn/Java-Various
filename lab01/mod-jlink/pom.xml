@@ -46,7 +46,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <launcher>
-                        filezipper=pwr.edu.pl.ui/pwr.edu.pl.ui.MainApp
+                        filezipper=pwr.edu.pl.ui/ui.MainApp
                     </launcher>
                 </configuration>
             </plugin>
