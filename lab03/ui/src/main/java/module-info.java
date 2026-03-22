@@ -2,6 +2,7 @@ module ui {
     requires javafx.graphics;
     requires javafx.controls;
     requires javafx.fxml;
+    requires lib;
 
     exports ui;
     exports ui.controller;
