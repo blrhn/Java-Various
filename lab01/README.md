@@ -1,4 +1,4 @@
-Laboratorium 1: archiwizowanie plików i funkcja skrótu SHA-256
+Archiwizowanie plików i funkcja skrótu SHA-256
 ----
 
 ### Uruchomienie programu
