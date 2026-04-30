@@ -1,6 +1,7 @@
 package pl.edu.pwr;
 
 import javafx.application.Application;
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import pl.edu.pwr.ui.Lab06FxApp;
 
@@ -9,6 +10,7 @@ import pl.edu.pwr.ui.Lab06FxApp;
 @SpringBootApplication
 public class Lab06Application {
     void main(String[] args) {
-        Application.launch(Lab06FxApp.class, args);
+        //Application.launch(Lab06FxApp.class, args);
+        SpringApplication.run(Lab06Application.class, args);
     }
 }

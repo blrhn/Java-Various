@@ -9,7 +9,6 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
-import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;
 import pl.edu.pwr.activity.ActivityService;
@@ -118,7 +117,7 @@ public class ViewController {
     }
 
     private void loadClientsData() {
-        List<ClientDto> clients = clientService.getAllClients();
+        List<ClientDto> clients = clientService.getAllValidClients();
 
         clientsTable.getItems().setAll(clients);
     }
@@ -220,7 +219,7 @@ public class ViewController {
 
     @FXML
     void addOrder(ActionEvent event) {
-        List<ClientDto> currentClients = clientService.getAllClients();
+        List<ClientDto> currentClients = clientService.getAllValidClients();
         List<OfferDto> currentOffers = offerService.getAllActiveOffers();
 
         orderFormController.prepareState(currentClients, currentOffers);
@@ -293,7 +292,7 @@ public class ViewController {
         int selectedIndex = ordersTable.getSelectionModel().getSelectedIndex();
 
         if (selectedOrder != null) {
-            orderFormController.prepareState(clientService.getAllClients(), offerService.getAllActiveOffers());
+            orderFormController.prepareState(clientService.getAllValidClients(), offerService.getAllActiveOffers());
 
             orderFormController.prepareForEdit(selectedOrder, uo -> {
                 ordersTable.getItems().set(selectedIndex, uo);

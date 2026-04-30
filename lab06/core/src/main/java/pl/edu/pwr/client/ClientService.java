@@ -19,7 +19,7 @@ public class ClientService {
         this.clientRepository = clientRepository;
     }
 
-    public List<ClientDto> getAllClients() {
+    public List<ClientDto> getAllValidClients() {
         return clientRepository.findAll().stream()
                 .map(c -> new ClientDto(
                         c.getId(),
