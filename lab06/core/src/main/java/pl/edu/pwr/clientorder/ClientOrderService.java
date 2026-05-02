@@ -108,8 +108,8 @@ public class ClientOrderService {
     }
 
     @Transactional
-    public ClientOrderDto updateOrder(UpdateClientOrderRequest request) {
-        ClientOrder order = getOrder(request.orderId());
+    public ClientOrderDto updateOrder(UUID id, UpdateClientOrderRequest request) {
+        ClientOrder order = getOrder(id);
         boolean wasPaidBeforeUpdate = order.isPaid();
 
         order.setAddress(request.address());

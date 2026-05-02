@@ -75,13 +75,12 @@ public class OfferFormController {
             onCreationCallback.accept(offer);
         } else {
             UpdateOfferRequest request = new UpdateOfferRequest(
-                    currentOfferId,
                     mealNameTextField.getText(),
                     new BigDecimal(priceTextField.getText()),
                     mealTypeDropdown.getValue()
             );
 
-            OfferDto offer = offerService.updateOffer(request);
+            OfferDto offer = offerService.updateOffer(currentOfferId, request);
 
             onEditCallback.accept(offer);
         }

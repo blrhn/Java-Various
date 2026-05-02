@@ -12,4 +12,9 @@ import java.util.UUID;
 public interface ClientRepository extends JpaRepository<Client, UUID> {
     @Query("SELECT DISTINCT o.client FROM ClientOrder o")
     List<Client> findClientsWithOrders();
+
+    @Query("SELECT c FROM Client c WHERE c.orders IS EMPTY")
+    List<Client> findClientsWithoutOrders();
+
+    List<Client> findAllByIsActiveTrue();
 }

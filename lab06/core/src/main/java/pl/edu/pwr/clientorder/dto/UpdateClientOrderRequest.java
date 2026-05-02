@@ -11,7 +11,6 @@ import java.util.UUID;
  * DTO for {@link ClientOrder}
  */
 public record UpdateClientOrderRequest(
-        UUID orderId,
         List<OrderItemRequest> items,
         String address,
         LocalDateTime deliveryDate,

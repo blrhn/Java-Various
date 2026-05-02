@@ -6,6 +6,7 @@ import java.math.BigDecimal;
 import java.util.UUID;
 
 public record ActivityDto(
+        UUID id,
         UUID clientId,
         UUID orderId,
         ActivityType type,

@@ -14,7 +14,7 @@ import java.util.List;
 
 @Entity
 @SQLDelete(sql = "UPDATE client SET is_active = false WHERE id = ?")
-@SQLRestriction("is_active = true")
+//@SQLRestriction("is_active = true")
 public class Client extends BaseEntity {
     @Getter
     @Setter

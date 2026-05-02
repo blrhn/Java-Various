@@ -30,6 +30,17 @@ public class OfferService {
                 .toList();
     }
 
+    public List<OfferDto> getAllOffers() {
+        return offerRepository.findAll().stream()
+                .map(o -> new OfferDto(
+                        o.getId(),
+                        o.getName(),
+                        o.getPrice(),
+                        o.getMealType()
+                ))
+                .toList();
+    }
+
     @Transactional
     public void deleteOffer(UUID id) {
         Offer offer = getOffer(id);
@@ -57,8 +68,8 @@ public class OfferService {
     }
 
     @Transactional
-    public OfferDto updateOffer(UpdateOfferRequest request) {
-        Offer offer = getOffer(request.offerId());
+    public OfferDto updateOffer(UUID id, UpdateOfferRequest request) {
+        Offer offer = getOffer(id);
 
         offer.setName(request.name());
         offer.setPrice(request.price());

@@ -29,7 +29,7 @@ public class SimulationService {
     private Consumer<String> uiLogCallback;
 
     @Transactional
-    public void advanceTime(Duration duration) {
+    public LocalDateTime advanceTime(Duration duration) {
         timeService.advanceTime(duration);
         LocalDateTime now = timeService.getFakeTime();
 
@@ -37,6 +37,8 @@ public class SimulationService {
 
         processDeliveries(now);
         processReminders(now);
+
+        return now;
     }
 
     private void processDeliveries(LocalDateTime now) {

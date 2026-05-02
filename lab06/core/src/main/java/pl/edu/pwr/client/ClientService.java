@@ -19,7 +19,7 @@ public class ClientService {
         this.clientRepository = clientRepository;
     }
 
-    public List<ClientDto> getAllValidClients() {
+    public List<ClientDto> getAllClients() {
         return clientRepository.findAll().stream()
                 .map(c -> new ClientDto(
                         c.getId(),
@@ -29,6 +29,18 @@ public class ClientService {
                 ))
                 .toList();
     }
+
+    public List<ClientDto> getAllValidClients() {
+        return clientRepository.findAllByIsActiveTrue().stream()
+                .map(c -> new ClientDto(
+                        c.getId(),
+                        c.getName(),
+                        c.getSurname(),
+                        c.getEmail()
+                ))
+                .toList();
+    }
+
 
     @Transactional
     public void deleteClient(UUID id) {
@@ -56,8 +68,8 @@ public class ClientService {
     }
 
     @Transactional
-    public ClientDto updateClient(UpdateClientRequest request) {
-        Client client = getClient(request.clientId());
+    public ClientDto updateClient(UUID id, UpdateClientRequest request) {
+        Client client = getClient(id);
 
         client.setName(request.name());
         client.setSurname(request.surname());
@@ -76,6 +88,17 @@ public class ClientService {
     @Transactional
     public List<ClientDto> getClientsWithOrders() {
         return clientRepository.findClientsWithOrders().stream()
+                .map(c -> new ClientDto(
+                        c.getId(),
+                        c.getName(),
+                        c.getSurname(),
+                        c.getEmail()
+                ))
+                .toList();
+    }
+
+    public List<ClientDto> getClientsWithoutOrders() {
+        return clientRepository.findClientsWithoutOrders().stream()
                 .map(c -> new ClientDto(
                         c.getId(),
                         c.getName(),

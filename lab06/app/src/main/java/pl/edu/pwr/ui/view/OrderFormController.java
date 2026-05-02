@@ -182,14 +182,13 @@ public class OrderFormController {
             onCreationCallback.accept(order);
         } else {
             UpdateClientOrderRequest request = new UpdateClientOrderRequest(
-                    currentOrderId,
                     itemRequests,
                     addressTextField.getText(),
                     deliveryDateTime,
                     isPaidCheckBox.isSelected()
             );
 
-            ClientOrderDto order = orderService.updateOrder(request);
+            ClientOrderDto order = orderService.updateOrder(currentOrderId, request);
 
             onEditCallback.accept(order);
         }

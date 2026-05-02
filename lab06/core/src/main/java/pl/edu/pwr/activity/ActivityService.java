@@ -32,6 +32,7 @@ public class ActivityService {
     public List<ActivityDto> getAllActivities() {
         return activityRepository.findAll().stream()
                 .map(a -> new ActivityDto(
+                        a.getId(),
                         a.getClient().getId(),
                         a.getOrder().getId(),
                         a.getType(),
@@ -56,6 +57,7 @@ public class ActivityService {
         activityRepository.save(activity);
 
         return new ActivityDto(
+                activity.getId(),
                 client.getId(),
                 order.getId(),
                 activity.getType(),

@@ -71,13 +71,12 @@ public class ClientFormController {
             onCreationCallback.accept(client);
         } else {
             UpdateClientRequest request = new UpdateClientRequest(
-                    currentClientId,
                     nameTextField.getText(),
                     surnameTextField.getText(),
                     mailTextField.getText()
             );
 
-            ClientDto client = clientService.updateClient(request);
+            ClientDto client = clientService.updateClient(currentClientId, request);
 
             onEditCallback.accept(client);
         }
