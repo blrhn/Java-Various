@@ -3,6 +3,7 @@ package pl.edu.pwr.api.controllers;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import pl.edu.pwr.api.openapi.ClientApi;
 import pl.edu.pwr.api.utils.UriCreator;
 import pl.edu.pwr.client.ClientService;
 import pl.edu.pwr.client.dto.ClientDto;
@@ -16,10 +17,10 @@ import java.util.UUID;
 @RestController
 @RequestMapping("/clients")
 @RequiredArgsConstructor
-public class ClientController {
+public class ClientController implements ClientApi {
     private final ClientService clientService;
 
-    @GetMapping(value = "", params = "allValid")
+    @Override
     public ResponseEntity<List<ClientDto>> getClients(
             @RequestParam(required = false) Boolean allValid, @RequestParam(required = false) Boolean haveOrders) {
         if (haveOrders != null) {
@@ -35,7 +36,7 @@ public class ClientController {
         return ResponseEntity.ok(clientService.getAllClients());
     }
 
-    @PostMapping
+    @Override
     public ResponseEntity<ClientDto> createClient(@RequestBody CreateClientRequest request) {
         ClientDto createdClient = clientService.createClient(request);
 
@@ -45,12 +46,12 @@ public class ClientController {
         return ResponseEntity.created(location).body(createdClient);
     }
 
-    @PutMapping("/{id}")
+    @Override
     public ResponseEntity<ClientDto> updateClient(@PathVariable UUID id, @RequestBody UpdateClientRequest request) {
         return ResponseEntity.ok(clientService.updateClient(id, request));
     }
 
-    @DeleteMapping("/{id}")
+    @Override
     public ResponseEntity<Void> deleteClient(@PathVariable UUID id) {
         clientService.deleteClient(id);
 

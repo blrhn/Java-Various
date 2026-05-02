@@ -3,6 +3,7 @@ package pl.edu.pwr.api.controllers;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import pl.edu.pwr.api.openapi.OfferApi;
 import pl.edu.pwr.api.utils.UriCreator;
 import pl.edu.pwr.offer.OfferService;
 import pl.edu.pwr.offer.dto.CreateOfferRequest;
@@ -16,24 +17,24 @@ import java.util.UUID;
 @RestController
 @RequestMapping("/offers")
 @RequiredArgsConstructor
-public class OfferController {
+public class OfferController implements OfferApi {
     private final OfferService offerService;
 
-    @GetMapping
+    @Override
     public ResponseEntity<List<OfferDto>> getOffers(@RequestParam(required = false, defaultValue = "true") boolean activeOnly) {
         return activeOnly
                 ? ResponseEntity.ok(offerService.getAllActiveOffers())
                 : ResponseEntity.ok(offerService.getAllOffers());
     }
 
-    @DeleteMapping("/{id}")
+    @Override
     public ResponseEntity<Void> deleteOffer(@PathVariable UUID id) {
         offerService.deleteOffer(id);
 
         return ResponseEntity.noContent().build();
     }
 
-    @PostMapping
+    @Override
     public ResponseEntity<OfferDto> createOffer (@RequestBody CreateOfferRequest request) {
         OfferDto createdOffer = offerService.createOffer(request);
 
@@ -42,7 +43,7 @@ public class OfferController {
         return ResponseEntity.created(location).body(createdOffer);
     }
 
-    @PutMapping("/{id}")
+    @Override
     public ResponseEntity<OfferDto> updateOffer(@PathVariable UUID id, @RequestBody UpdateOfferRequest request) {
         return ResponseEntity.ok(offerService.updateOffer(id, request));
     }

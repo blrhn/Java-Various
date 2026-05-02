@@ -14,9 +14,18 @@ import java.util.UUID;
 public record CreateClientOrderRequest(
         @Schema(description = "Id klienta", example = "46513276-2510-4644-84ab-c3f5c1f608ef")
         UUID clientId,
-        @Schema(description = "Id klienta", example = "46513276-2510-4644-84ab-c3f5c1f608ef")
+        @Schema(description = "Lista produktów w zamówieniu",
+                example = """
+                [
+                  { "offerId": "6aa77e82-67da-4c3b-bf83-ccf9ced036f4", "quantity": 2 },
+                  { "offerId": "c9423e8e-2e2f-4fb3-b440-dbfdd788f0c9", "quantity": 5 }
+                ]
+                """)
         List<OrderItemRequest> items,
+        @Schema(description = "Adres dostawy", example = "ul. Ładna 12, Kraków")
         String address,
+        @Schema(description = "Data dostawy", example = "2026-05-15T12:00:00")
         LocalDateTime deliveryDate,
+        @Schema(description = "Czy zamówienie zostało opłacone", example = "true")
         boolean isPaid
 ) implements Serializable {}

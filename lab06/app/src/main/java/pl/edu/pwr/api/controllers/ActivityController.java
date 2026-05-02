@@ -13,6 +13,7 @@ import java.net.URI;
 import java.util.List;
 
 @RestController
+@RequestMapping("/activities")
 @RequiredArgsConstructor
 public class ActivityController implements ActivityApi {
     private final ActivityService activityService;

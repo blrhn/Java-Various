@@ -3,6 +3,7 @@ package pl.edu.pwr.api.controllers;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import pl.edu.pwr.api.openapi.OrderApi;
 import pl.edu.pwr.api.utils.UriCreator;
 import pl.edu.pwr.clientorder.ClientOrderService;
 import pl.edu.pwr.clientorder.dto.ClientOrderDto;
@@ -16,22 +17,22 @@ import java.util.UUID;
 @RestController
 @RequestMapping("/orders")
 @RequiredArgsConstructor
-public class OrderController {
+public class OrderController implements OrderApi {
     private final ClientOrderService clientOrderService;
 
-    @GetMapping
+    @Override
     public ResponseEntity<List<ClientOrderDto>> getAllOrders() {
         return ResponseEntity.ok(clientOrderService.getAllOrders());
     }
 
-    @DeleteMapping("/{id}")
+    @Override
     public ResponseEntity<Void> deleteOrder(@PathVariable UUID id) {
         clientOrderService.deleteOrder(id);
 
         return ResponseEntity.noContent().build();
     }
 
-    @PostMapping
+    @Override
     public ResponseEntity<ClientOrderDto> createOrder(@RequestBody CreateClientOrderRequest request) {
         ClientOrderDto createdOrder = clientOrderService.createOrder(request);
 
@@ -40,7 +41,7 @@ public class OrderController {
         return ResponseEntity.created(location).body(createdOrder);
     }
 
-    @PutMapping("/{id}")
+    @Override
     public ResponseEntity<ClientOrderDto> updateOrder(@PathVariable UUID id, @RequestBody UpdateClientOrderRequest request) {
         return ResponseEntity.ok(clientOrderService.updateOrder(id, request));
     }
