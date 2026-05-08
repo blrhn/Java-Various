@@ -5,10 +5,10 @@ import java.awt.image.BufferedImage;
 public class SobelFilter  {
     private final BufferedImage imageToProcess;
     private final Convolution convolution;
-    private final int[] xKernel = { -1, 0, 1,
+    public static final int[] xKernel = { -1, 0, 1,
                                     -2, 0, 2,
                                     -1, 0, 1 };
-    private final int[] yKernel = { -1, -2, -1,
+    public static final int[] yKernel = { -1, -2, -1,
                                      0, 0, 0,
                                      1, 2, 1 };
 
@@ -24,14 +24,8 @@ public class SobelFilter  {
 
         int[] grayImage = toGrayScale(x, y);
 
-        int[] gX = new int[x * y];
-        int[] gY = new int[x * y];
-
-        for (int i = 0; i < 1; i++) {
-            /*int[] */gX = convolution.convolve(grayImage, x, y, xKernel, 3, 3);
-            /*int[]*/ gY = convolution.convolve(grayImage, x, y, yKernel, 3, 3);
-        }
-
+        int[] gX = convolution.convolve(grayImage, x, y, xKernel, 3, 3);
+        int[] gY = convolution.convolve(grayImage, x, y, yKernel, 3, 3);
 
         return turnIntoImage(calculateEdgeColours(gX, gY), x, y);
     }

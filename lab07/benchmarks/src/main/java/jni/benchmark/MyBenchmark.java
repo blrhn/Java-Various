@@ -32,35 +32,67 @@
 package jni.benchmark;
 
 import jni.filter.ConvolutionEngine;
-import org.openjdk.jmh.annotations.*;
+import jni.filter.SobelFilter;
+import org.openjdk.jmh.annotations.Benchmark;
+import org.openjdk.jmh.annotations.BenchmarkMode;
+import org.openjdk.jmh.annotations.Fork;
+import org.openjdk.jmh.annotations.Measurement;
+import org.openjdk.jmh.annotations.Mode;
+import org.openjdk.jmh.annotations.OutputTimeUnit;
+import org.openjdk.jmh.annotations.Param;
+import org.openjdk.jmh.annotations.Scope;
+import org.openjdk.jmh.annotations.Setup;
+import org.openjdk.jmh.annotations.State;
+import org.openjdk.jmh.annotations.Warmup;
 
+import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-@Fork(value = 2)
-@Warmup(iterations = 2)
-@Measurement(iterations = 1)
+@Fork(value = 1)
+@Warmup(iterations = 5, time = 1, timeUnit = TimeUnit.SECONDS)
+@Measurement(iterations = 10, time = 1, timeUnit = TimeUnit.SECONDS)
 @BenchmarkMode(Mode.AverageTime)
-@OutputTimeUnit(TimeUnit.NANOSECONDS)
+@OutputTimeUnit(TimeUnit.MILLISECONDS)
+@State(Scope.Thread)
 public class MyBenchmark {
+    private ConvolutionEngine engine;
+    private int[] image;
+    private int[] xKernel;
+    private final Random rand = new Random();
+
+    @Param({"640x480", "1280x720", "1920x1080", "3840x2160", "4096x2160"})
+    private String resolution;
+
+    private int width;
+    private int height;
+
+    @Setup
+    public void setup() {
+        String[] parts = resolution.split("x");
+        width = Integer.parseInt(parts[0]);
+        height = Integer.parseInt(parts[1]);
+
+        engine = new ConvolutionEngine();
+        xKernel = SobelFilter.xKernel;
+        image = new int[width * height];
+
+        for (int i = 0; i < image.length; i++) {
+            image[i] = rand.nextInt(256);
+        }
+    }
 
     @Benchmark
     public int[] testJavaConvolution() {
-        ConvolutionEngine engine = new ConvolutionEngine();
-
-        return new int[0];
+        return engine.convolveJava(image, width, height, xKernel, 3, 3);
     }
 
     @Benchmark
-    public int[] testJniConvolution() {
-        ConvolutionEngine engine = new ConvolutionEngine();
-
-        return new int[0];
+    public int[] testNativeConvolution() {
+        return engine.convolveNative(image, width, height, xKernel, 3, 3);
     }
 
     @Benchmark
-    public int[] testJniConvolutionDiff() {
-        return new int[0];
+    public int[] testNativeConvolutionDiff() {
+        return engine.convolveNativeDiff(image, width, height, xKernel, 3, 3);
     }
-
-
 }
