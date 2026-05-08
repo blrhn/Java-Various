@@ -6,3 +6,4 @@
 - [Custom class loader](https://github.com/blrhn/Java-Various/tree/main/lab04)
 - [Service provider interface](https://github.com/blrhn/Java-Various/tree/main/lab05)
 - [Catering system; Hibernate/SpringBoot](https://github.com/blrhn/Java-Various/tree/main/lab06)
+- [Sobel filter; Benchmarks for convolution calculations in Java and native implementations (JNI)](https://github.com/blrhn/Java-Various/tree/main/lab07)
