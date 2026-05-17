@@ -9,13 +9,13 @@ import java.awt.image.BufferedImage;
 
 public class Main {
     void main() {
-        BufferedImage img = ImageReader.readImage("images/rzeka.jpg");
+        BufferedImage img = ImageReader.readImage("images/images.jpg");
 
         ConvolutionEngine engine = new ConvolutionEngine();
-        SobelFilter sf = new SobelFilter(engine::convolveNativeDiff, img);
+        SobelFilter sf = new SobelFilter(engine::convolveJava, img);
 
         BufferedImage processed = sf.sobel();
 
-        ImageWriter.writeImage("output/sobel-rzeka.jpg", processed);
+        ImageWriter.writeImage("output/sobel-images.jpg", processed);
     }
 }

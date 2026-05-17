@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-xsl.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for Chinese Yuan (CNY)</title>
+	<link>http://www.floatrates.com/currency/cny/</link>
+	<xmlLink>http://www.floatrates.com/daily/cny.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for Chinese Yuan (CNY) from the Float Rates. Published at Thu, 14 May 2026 14:55:10 GMT.</description>
+	<language>en</language>
+	<baseCurrency>CNY</baseCurrency>
+	<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+	<lastBuildDate>Thu, 14 May 2026 14:55:10 GMT</lastBuildDate>
+	<item>
+		<title>1 CNY = 0.20329864 AUD</title>
+		<link>http://www.floatrates.com/cny/aud/</link>
+		<description>1 Chinese Yuan = 0.20329864 Australian Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.20329864</exchangeRate>
+		<inverseRate>4.91887208</inverseRate>
+		<inverseDescription>1 Australian Dollar = 4.91887208 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.20211551 CAD</title>
+		<link>http://www.floatrates.com/cny/cad/</link>
+		<description>1 Chinese Yuan = 0.20211551 Canadian Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.20211551</exchangeRate>
+		<inverseRate>4.94766589</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 4.94766589 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.11523858 CHF</title>
+		<link>http://www.floatrates.com/cny/chf/</link>
+		<description>1 Chinese Yuan = 0.11523858 Swiss Franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.11523858</exchangeRate>
+		<inverseRate>8.67764962</inverseRate>
+		<inverseDescription>1 Swiss Franc = 8.67764962 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.12588953 EUR</title>
+		<link>http://www.floatrates.com/cny/eur/</link>
+		<description>1 Chinese Yuan = 0.12588953 Euro</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.12588953</exchangeRate>
+		<inverseRate>7.94347258</inverseRate>
+		<inverseDescription>1 Euro = 7.94347258 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.10905478 GBP</title>
+		<link>http://www.floatrates.com/cny/gbp/</link>
+		<description>1 Chinese Yuan = 0.10905478 U.K. Pound Sterling</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.10905478</exchangeRate>
+		<inverseRate>9.16970345</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 9.16970345 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.15426915 HKD</title>
+		<link>http://www.floatrates.com/cny/hkd/</link>
+		<description>1 Chinese Yuan = 1.15426915 Hong Kong Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>1.15426915</exchangeRate>
+		<inverseRate>0.86634907</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.86634907 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2573.76342584 IDR</title>
+		<link>http://www.floatrates.com/cny/idr/</link>
+		<description>1 Chinese Yuan = 2573.76342584 Indonesian Rupiah</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>2573.76342584</exchangeRate>
+		<inverseRate>0.00038854</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.00038854 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 14.12304047 INR</title>
+		<link>http://www.floatrates.com/cny/inr/</link>
+		<description>1 Chinese Yuan = 14.12304047 Indian Rupee</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>14.12304047</exchangeRate>
+		<inverseRate>0.07080628</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.07080628 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 23.27390305 JPY</title>
+		<link>http://www.floatrates.com/cny/jpy/</link>
+		<description>1 Chinese Yuan = 23.27390305 Japanese Yen</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>23.27390305</exchangeRate>
+		<inverseRate>0.04296658</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.04296658 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 219.94781764 KRW</title>
+		<link>http://www.floatrates.com/cny/krw/</link>
+		<description>1 Chinese Yuan = 219.94781764 South Korean Won</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>219.94781764</exchangeRate>
+		<inverseRate>0.00454653</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.00454653 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.57921153 MYR</title>
+		<link>http://www.floatrates.com/cny/myr/</link>
+		<description>1 Chinese Yuan = 0.57921153 Malaysian Ringgit</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.57921153</exchangeRate>
+		<inverseRate>1.72648498</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 1.72648498 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.24842596 NZD</title>
+		<link>http://www.floatrates.com/cny/nzd/</link>
+		<description>1 Chinese Yuan = 0.24842596 New Zealand Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.24842596</exchangeRate>
+		<inverseRate>4.02534413</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 4.02534413 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.64194977 PGK</title>
+		<link>http://www.floatrates.com/cny/pgk/</link>
+		<description>1 Chinese Yuan = 0.64194977 Papua New Guinean kina</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>0.64194977</exchangeRate>
+		<inverseRate>1.55775428</inverseRate>
+		<inverseDescription>1 Papua New Guinean kina = 1.55775428 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 9.07100026 PHP</title>
+		<link>http://www.floatrates.com/cny/php/</link>
+		<description>1 Chinese Yuan = 9.07100026 Philippine Peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>9.07100026</exchangeRate>
+		<inverseRate>0.11024143</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.11024143 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.18765263 SGD</title>
+		<link>http://www.floatrates.com/cny/sgd/</link>
+		<description>1 Chinese Yuan = 0.18765263 Singapore Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.18765263</exchangeRate>
+		<inverseRate>5.32899529</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 5.32899529 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 4.76581360 THB</title>
+		<link>http://www.floatrates.com/cny/thb/</link>
+		<description>1 Chinese Yuan = 4.76581360 Thai Baht</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>4.76581360</exchangeRate>
+		<inverseRate>0.20982776</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.20982776 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 4.64952741 TWD</title>
+		<link>http://www.floatrates.com/cny/twd/</link>
+		<description>1 Chinese Yuan = 4.64952741 New Taiwan Dollar </description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>4.64952741</exchangeRate>
+		<inverseRate>0.21507562</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.21507562 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.14737005 USD</title>
+		<link>http://www.floatrates.com/cny/usd/</link>
+		<description>1 Chinese Yuan = 0.14737005 U.S. Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.14737005</exchangeRate>
+		<inverseRate>6.78563941</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 6.78563941 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 3883.23772519 VND</title>
+		<link>http://www.floatrates.com/cny/vnd/</link>
+		<description>1 Chinese Yuan = 3883.23772519 Vietnamese Dong</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>3883.23772519</exchangeRate>
+		<inverseRate>0.00025752</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.00025752 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.54123717 AED</title>
+		<link>http://www.floatrates.com/cny/aed/</link>
+		<description>1 Chinese Yuan = 0.54123717 U.A.E Dirham</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.54123717</exchangeRate>
+		<inverseRate>1.84761884</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 1.84761884 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.53647300 QAR</title>
+		<link>http://www.floatrates.com/cny/qar/</link>
+		<description>1 Chinese Yuan = 0.53647300 Qatari Rial</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.53647300</exchangeRate>
+		<inverseRate>1.86402671</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.86402671 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.55269999 SAR</title>
+		<link>http://www.floatrates.com/cny/sar/</link>
+		<description>1 Chinese Yuan = 0.55269999 Saudi Riyal</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.55269999</exchangeRate>
+		<inverseRate>1.80929984</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 1.80929984 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.73660765 BRL</title>
+		<link>http://www.floatrates.com/cny/brl/</link>
+		<description>1 Chinese Yuan = 0.73660765 Brazilian Real</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.73660765</exchangeRate>
+		<inverseRate>1.35757483</inverseRate>
+		<inverseDescription>1 Brazilian Real = 1.35757483 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 3.06047153 CZK</title>
+		<link>http://www.floatrates.com/cny/czk/</link>
+		<description>1 Chinese Yuan = 3.06047153 Czech Koruna</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>3.06047153</exchangeRate>
+		<inverseRate>0.32674704</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.32674704 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.94104306 DKK</title>
+		<link>http://www.floatrates.com/cny/dkk/</link>
+		<description>1 Chinese Yuan = 0.94104306 Danish Krone</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.94104306</exchangeRate>
+		<inverseRate>1.06265063</inverseRate>
+		<inverseDescription>1 Danish Krone = 1.06265063 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 7.79607015 EGP</title>
+		<link>http://www.floatrates.com/cny/egp/</link>
+		<description>1 Chinese Yuan = 7.79607015 Egyptian Pound</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>7.79607015</exchangeRate>
+		<inverseRate>0.12826975</inverseRate>
+		<inverseDescription>1 Egyptian Pound = 0.12826975 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 45.01361676 HUF</title>
+		<link>http://www.floatrates.com/cny/huf/</link>
+		<description>1 Chinese Yuan = 45.01361676 Hungarian Forint</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>45.01361676</exchangeRate>
+		<inverseRate>0.02221550</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.02221550 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.42816779 ILS</title>
+		<link>http://www.floatrates.com/cny/ils/</link>
+		<description>1 Chinese Yuan = 0.42816779 Israeli New Sheqel</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.42816779</exchangeRate>
+		<inverseRate>2.33553297</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 2.33553297 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 18.08323695 ISK</title>
+		<link>http://www.floatrates.com/cny/isk/</link>
+		<description>1 Chinese Yuan = 18.08323695 Icelandic Krona</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>18.08323695</exchangeRate>
+		<inverseRate>0.05529983</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.05529983 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.52707181 MDL</title>
+		<link>http://www.floatrates.com/cny/mdl/</link>
+		<description>1 Chinese Yuan = 2.52707181 Moldova Lei</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>2.52707181</exchangeRate>
+		<inverseRate>0.39571491</inverseRate>
+		<inverseDescription>1 Moldova Lei = 0.39571491 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.53442555 MXN</title>
+		<link>http://www.floatrates.com/cny/mxn/</link>
+		<description>1 Chinese Yuan = 2.53442555 Mexican Peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>2.53442555</exchangeRate>
+		<inverseRate>0.39456673</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.39456673 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.35940927 NOK</title>
+		<link>http://www.floatrates.com/cny/nok/</link>
+		<description>1 Chinese Yuan = 1.35940927 Norwegian Krone</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>1.35940927</exchangeRate>
+		<inverseRate>0.73561364</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.73561364 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.53367847 PLN</title>
+		<link>http://www.floatrates.com/cny/pln/</link>
+		<description>1 Chinese Yuan = 0.53367847 Polish Zloty</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.53367847</exchangeRate>
+		<inverseRate>1.87378742</inverseRate>
+		<inverseDescription>1 Polish Zloty = 1.87378742 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.65551361 RON</title>
+		<link>http://www.floatrates.com/cny/ron/</link>
+		<description>1 Chinese Yuan = 0.65551361 Romanian New Leu</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.65551361</exchangeRate>
+		<inverseRate>1.52552133</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 1.52552133 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 14.77645892 RSD</title>
+		<link>http://www.floatrates.com/cny/rsd/</link>
+		<description>1 Chinese Yuan = 14.77645892 Serbian Dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>14.77645892</exchangeRate>
+		<inverseRate>0.06767521</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.06767521 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 10.79297438 RUB</title>
+		<link>http://www.floatrates.com/cny/rub/</link>
+		<description>1 Chinese Yuan = 10.79297438 Russian Rouble</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>10.79297438</exchangeRate>
+		<inverseRate>0.09265287</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.09265287 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.37444635 SEK</title>
+		<link>http://www.floatrates.com/cny/sek/</link>
+		<description>1 Chinese Yuan = 1.37444635 Swedish Krona</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>1.37444635</exchangeRate>
+		<inverseRate>0.72756568</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.72756568 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 6.69711495 TRY</title>
+		<link>http://www.floatrates.com/cny/try/</link>
+		<description>1 Chinese Yuan = 6.69711495 Turkish Lira</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>6.69711495</exchangeRate>
+		<inverseRate>0.14931803</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.14931803 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 6.47788425 UAH</title>
+		<link>http://www.floatrates.com/cny/uah/</link>
+		<description>1 Chinese Yuan = 6.47788425 Ukrainian Hryvnia</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>6.47788425</exchangeRate>
+		<inverseRate>0.15437139</inverseRate>
+		<inverseDescription>1 Ukrainian Hryvnia = 0.15437139 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.41793997 ZAR</title>
+		<link>http://www.floatrates.com/cny/zar/</link>
+		<description>1 Chinese Yuan = 2.41793997 South African Rand</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>2.41793997</exchangeRate>
+		<inverseRate>0.41357520</inverseRate>
+		<inverseDescription>1 South African Rand = 0.41357520 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 130.80387212 CLP</title>
+		<link>http://www.floatrates.com/cny/clp/</link>
+		<description>1 Chinese Yuan = 130.80387212 Chilean Peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>130.80387212</exchangeRate>
+		<inverseRate>0.00764503</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.00764503 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.25051649 AZN</title>
+		<link>http://www.floatrates.com/cny/azn/</link>
+		<description>1 Chinese Yuan = 0.25051649 Azerbaijan Manat</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>0.25051649</exchangeRate>
+		<inverseRate>3.99175323</inverseRate>
+		<inverseDescription>1 Azerbaijan Manat = 3.99175323 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 18.08624662 BDT</title>
+		<link>http://www.floatrates.com/cny/bdt/</link>
+		<description>1 Chinese Yuan = 18.08624662 Bangladeshi taka</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>18.08624662</exchangeRate>
+		<inverseRate>0.05529063</inverseRate>
+		<inverseDescription>1 Bangladeshi taka = 0.05529063 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 19.51602149 DZD</title>
+		<link>http://www.floatrates.com/cny/dzd/</link>
+		<description>1 Chinese Yuan = 19.51602149 Algerian Dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>19.51602149</exchangeRate>
+		<inverseRate>0.05123995</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.05123995 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.39462710 GEL</title>
+		<link>http://www.floatrates.com/cny/gel/</link>
+		<description>1 Chinese Yuan = 0.39462710 Georgian lari</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>0.39462710</exchangeRate>
+		<inverseRate>2.53403781</inverseRate>
+		<inverseDescription>1 Georgian lari = 2.53403781 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 69.47466016 KZT</title>
+		<link>http://www.floatrates.com/cny/kzt/</link>
+		<description>1 Chinese Yuan = 69.47466016 Kazakhstani Tenge</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>69.47466016</exchangeRate>
+		<inverseRate>0.01439374</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.01439374 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.42598210 TND</title>
+		<link>http://www.floatrates.com/cny/tnd/</link>
+		<description>1 Chinese Yuan = 0.42598210 Tunisian Dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.42598210</exchangeRate>
+		<inverseRate>2.34751650</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 2.34751650 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.10448818 JOD</title>
+		<link>http://www.floatrates.com/cny/jod/</link>
+		<description>1 Chinese Yuan = 0.10448818 Jordanian Dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.10448818</exchangeRate>
+		<inverseRate>9.57046096</inverseRate>
+		<inverseDescription>1 Jordanian Dinar = 9.57046096 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 82.60845498 XAF</title>
+		<link>http://www.floatrates.com/cny/xaf/</link>
+		<description>1 Chinese Yuan = 82.60845498 Central African CFA Franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>82.60845498</exchangeRate>
+		<inverseRate>0.01210530</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.01210530 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 82.60845498 XOF</title>
+		<link>http://www.floatrates.com/cny/xof/</link>
+		<description>1 Chinese Yuan = 82.60845498 West African CFA Franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>82.60845498</exchangeRate>
+		<inverseRate>0.01210530</inverseRate>
+		<inverseDescription>1 West African CFA Franc = 0.01210530 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 9.38265622 AFN</title>
+		<link>http://www.floatrates.com/cny/afn/</link>
+		<description>1 Chinese Yuan = 9.38265622 Afghan afghani</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>9.38265622</exchangeRate>
+		<inverseRate>0.10657963</inverseRate>
+		<inverseDescription>1 Afghan afghani = 0.10657963 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 12.02056999 ALL</title>
+		<link>http://www.floatrates.com/cny/all/</link>
+		<description>1 Chinese Yuan = 12.02056999 Albanian lek</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>12.02056999</exchangeRate>
+		<inverseRate>0.08319073</inverseRate>
+		<inverseDescription>1 Albanian lek = 0.08319073 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 54.33373196 AMD</title>
+		<link>http://www.floatrates.com/cny/amd/</link>
+		<description>1 Chinese Yuan = 54.33373196 Armenia Dram</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>54.33373196</exchangeRate>
+		<inverseRate>0.01840477</inverseRate>
+		<inverseDescription>1 Armenia Dram = 0.01840477 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 135.58296208 AOA</title>
+		<link>http://www.floatrates.com/cny/aoa/</link>
+		<description>1 Chinese Yuan = 135.58296208 Angolan kwanza</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>135.58296208</exchangeRate>
+		<inverseRate>0.00737556</inverseRate>
+		<inverseDescription>1 Angolan kwanza = 0.00737556 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 205.11333916 ARS</title>
+		<link>http://www.floatrates.com/cny/ars/</link>
+		<description>1 Chinese Yuan = 205.11333916 Argentine Peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>205.11333916</exchangeRate>
+		<inverseRate>0.00487535</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.00487535 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.26379767 AWG</title>
+		<link>http://www.floatrates.com/cny/awg/</link>
+		<description>1 Chinese Yuan = 0.26379767 Aruban florin</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>0.26379767</exchangeRate>
+		<inverseRate>3.79078400</inverseRate>
+		<inverseDescription>1 Aruban florin = 3.79078400 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.24630897 BAM</title>
+		<link>http://www.floatrates.com/cny/bam/</link>
+		<description>1 Chinese Yuan = 0.24630897 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>0.24630897</exchangeRate>
+		<inverseRate>4.05994143</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 4.05994143 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.29474009 BBD</title>
+		<link>http://www.floatrates.com/cny/bbd/</link>
+		<description>1 Chinese Yuan = 0.29474009 Barbadian Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>0.29474009</exchangeRate>
+		<inverseRate>3.39281971</inverseRate>
+		<inverseDescription>1 Barbadian Dollar = 3.39281971 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.05541174 BHD</title>
+		<link>http://www.floatrates.com/cny/bhd/</link>
+		<description>1 Chinese Yuan = 0.05541174 Bahrain Dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.05541174</exchangeRate>
+		<inverseRate>18.04671645</inverseRate>
+		<inverseDescription>1 Bahrain Dinar = 18.04671645 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 440.51113485 BIF</title>
+		<link>http://www.floatrates.com/cny/bif/</link>
+		<description>1 Chinese Yuan = 440.51113485 Burundian franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>440.51113485</exchangeRate>
+		<inverseRate>0.00227009</inverseRate>
+		<inverseDescription>1 Burundian franc = 0.00227009 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.18765690 BND</title>
+		<link>http://www.floatrates.com/cny/bnd/</link>
+		<description>1 Chinese Yuan = 0.18765690 Brunei Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.18765690</exchangeRate>
+		<inverseRate>5.32887406</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 5.32887406 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.01832929 BOB</title>
+		<link>http://www.floatrates.com/cny/bob/</link>
+		<description>1 Chinese Yuan = 1.01832929 Bolivian Boliviano</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>1.01832929</exchangeRate>
+		<inverseRate>0.98200062</inverseRate>
+		<inverseDescription>1 Bolivian Boliviano = 0.98200062 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.14737005 BSD</title>
+		<link>http://www.floatrates.com/cny/bsd/</link>
+		<description>1 Chinese Yuan = 0.14737005 Bahamian Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.14737005</exchangeRate>
+		<inverseRate>6.78563941</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 6.78563941 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.05251390 BWP</title>
+		<link>http://www.floatrates.com/cny/bwp/</link>
+		<description>1 Chinese Yuan = 2.05251390 Botswana Pula</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>2.05251390</exchangeRate>
+		<inverseRate>0.48720742</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.48720742 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.29474009 BZD</title>
+		<link>http://www.floatrates.com/cny/bzd/</link>
+		<description>1 Chinese Yuan = 0.29474009 Belize dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>0.29474009</exchangeRate>
+		<inverseRate>3.39281971</inverseRate>
+		<inverseDescription>1 Belize dollar = 3.39281971 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 330.39475462 CDF</title>
+		<link>http://www.floatrates.com/cny/cdf/</link>
+		<description>1 Chinese Yuan = 330.39475462 Congolese franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>330.39475462</exchangeRate>
+		<inverseRate>0.00302668</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.00302668 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 557.70533247 COP</title>
+		<link>http://www.floatrates.com/cny/cop/</link>
+		<description>1 Chinese Yuan = 557.70533247 Colombian Peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>557.70533247</exchangeRate>
+		<inverseRate>0.00179306</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.00179306 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 67.06663249 CRC</title>
+		<link>http://www.floatrates.com/cny/crc/</link>
+		<description>1 Chinese Yuan = 67.06663249 Costa Rican Colón</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>67.06663249</exchangeRate>
+		<inverseRate>0.01491054</inverseRate>
+		<inverseDescription>1 Costa Rican Colón = 0.01491054 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 3.53688113 CUP</title>
+		<link>http://www.floatrates.com/cny/cup/</link>
+		<description>1 Chinese Yuan = 3.53688113 Cuban peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>3.53688113</exchangeRate>
+		<inverseRate>0.28273498</inverseRate>
+		<inverseDescription>1 Cuban peso = 0.28273498 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 13.88630854 CVE</title>
+		<link>http://www.floatrates.com/cny/cve/</link>
+		<description>1 Chinese Yuan = 13.88630854 Cape Verde escudo</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>13.88630854</exchangeRate>
+		<inverseRate>0.07201338</inverseRate>
+		<inverseDescription>1 Cape Verde escudo = 0.07201338 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 26.19073777 DJF</title>
+		<link>http://www.floatrates.com/cny/djf/</link>
+		<description>1 Chinese Yuan = 26.19073777 Djiboutian franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>26.19073777</exchangeRate>
+		<inverseRate>0.03818144</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.03818144 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 8.81192787 DOP</title>
+		<link>http://www.floatrates.com/cny/dop/</link>
+		<description>1 Chinese Yuan = 8.81192787 Dominican Peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>8.81192787</exchangeRate>
+		<inverseRate>0.11348254</inverseRate>
+		<inverseDescription>1 Dominican Peso = 0.11348254 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.26655435 ERN</title>
+		<link>http://www.floatrates.com/cny/ern/</link>
+		<description>1 Chinese Yuan = 2.26655435 Eritrean nakfa</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>2.26655435</exchangeRate>
+		<inverseRate>0.44119833</inverseRate>
+		<inverseDescription>1 Eritrean nakfa = 0.44119833 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 23.06902911 ETB</title>
+		<link>http://www.floatrates.com/cny/etb/</link>
+		<description>1 Chinese Yuan = 23.06902911 Ethiopian birr</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>23.06902911</exchangeRate>
+		<inverseRate>0.04334816</inverseRate>
+		<inverseDescription>1 Ethiopian birr = 0.04334816 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.32496468 FJD</title>
+		<link>http://www.floatrates.com/cny/fjd/</link>
+		<description>1 Chinese Yuan = 0.32496468 Fiji Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>0.32496468</exchangeRate>
+		<inverseRate>3.07725749</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 3.07725749 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.67097887 GHS</title>
+		<link>http://www.floatrates.com/cny/ghs/</link>
+		<description>1 Chinese Yuan = 1.67097887 Ghanaian Cedi</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>1.67097887</exchangeRate>
+		<inverseRate>0.59845161</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.59845161 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.10908305 GIP</title>
+		<link>http://www.floatrates.com/cny/gip/</link>
+		<description>1 Chinese Yuan = 0.10908305 Gibraltar pound</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>0.10908305</exchangeRate>
+		<inverseRate>9.16732693</inverseRate>
+		<inverseDescription>1 Gibraltar pound = 9.16732693 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 10.74735927 GMD</title>
+		<link>http://www.floatrates.com/cny/gmd/</link>
+		<description>1 Chinese Yuan = 10.74735927 Gambian dalasi</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>10.74735927</exchangeRate>
+		<inverseRate>0.09304611</inverseRate>
+		<inverseDescription>1 Gambian dalasi = 0.09304611 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1287.72387967 GNF</title>
+		<link>http://www.floatrates.com/cny/gnf/</link>
+		<description>1 Chinese Yuan = 1287.72387967 Guinean franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>1287.72387967</exchangeRate>
+		<inverseRate>0.00077656</inverseRate>
+		<inverseDescription>1 Guinean franc = 0.00077656 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.12393904 GTQ</title>
+		<link>http://www.floatrates.com/cny/gtq/</link>
+		<description>1 Chinese Yuan = 1.12393904 Guatemalan Quetzal</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>1.12393904</exchangeRate>
+		<inverseRate>0.88972797</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.88972797 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 30.83275572 GYD</title>
+		<link>http://www.floatrates.com/cny/gyd/</link>
+		<description>1 Chinese Yuan = 30.83275572 Guyanese dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>30.83275572</exchangeRate>
+		<inverseRate>0.03243304</inverseRate>
+		<inverseDescription>1 Guyanese dollar = 0.03243304 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 3.92242092 HNL</title>
+		<link>http://www.floatrates.com/cny/hnl/</link>
+		<description>1 Chinese Yuan = 3.92242092 Honduran Lempira</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>3.92242092</exchangeRate>
+		<inverseRate>0.25494459</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.25494459 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 19.23530476 HTG</title>
+		<link>http://www.floatrates.com/cny/htg/</link>
+		<description>1 Chinese Yuan = 19.23530476 Haitian gourde</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>19.23530476</exchangeRate>
+		<inverseRate>0.05198774</inverseRate>
+		<inverseDescription>1 Haitian gourde = 0.05198774 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 193.05476175 IQD</title>
+		<link>http://www.floatrates.com/cny/iqd/</link>
+		<description>1 Chinese Yuan = 193.05476175 Iraqi dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>193.05476175</exchangeRate>
+		<inverseRate>0.00517988</inverseRate>
+		<inverseDescription>1 Iraqi dinar = 0.00517988 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 23.30920123 JMD</title>
+		<link>http://www.floatrates.com/cny/jmd/</link>
+		<description>1 Chinese Yuan = 23.30920123 Jamaican Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>23.30920123</exchangeRate>
+		<inverseRate>0.04290151</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.04290151 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 19.03631364 KES</title>
+		<link>http://www.floatrates.com/cny/kes/</link>
+		<description>1 Chinese Yuan = 19.03631364 Kenyan shilling</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>19.03631364</exchangeRate>
+		<inverseRate>0.05253118</inverseRate>
+		<inverseDescription>1 Kenyan shilling = 0.05253118 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 12.88751188 KGS</title>
+		<link>http://www.floatrates.com/cny/kgs/</link>
+		<description>1 Chinese Yuan = 12.88751188 Kyrgyzstan Som</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>12.88751188</exchangeRate>
+		<inverseRate>0.07759450</inverseRate>
+		<inverseDescription>1 Kyrgyzstan Som = 0.07759450 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 591.21558358 KHR</title>
+		<link>http://www.floatrates.com/cny/khr/</link>
+		<description>1 Chinese Yuan = 591.21558358 Cambodian riel</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>591.21558358</exchangeRate>
+		<inverseRate>0.00169143</inverseRate>
+		<inverseDescription>1 Cambodian riel = 0.00169143 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 61.95634123 KMF</title>
+		<link>http://www.floatrates.com/cny/kmf/</link>
+		<description>1 Chinese Yuan = 61.95634123 	Comoro franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>61.95634123</exchangeRate>
+		<inverseRate>0.01614040</inverseRate>
+		<inverseDescription>1 	Comoro franc = 0.01614040 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.04529910 KWD</title>
+		<link>http://www.floatrates.com/cny/kwd/</link>
+		<description>1 Chinese Yuan = 0.04529910 Kuwaiti Dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.04529910</exchangeRate>
+		<inverseRate>22.07549413</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 22.07549413 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 13189.61921908 LBP</title>
+		<link>http://www.floatrates.com/cny/lbp/</link>
+		<description>1 Chinese Yuan = 13189.61921908 Lebanese Pound</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>13189.61921908</exchangeRate>
+		<inverseRate>0.00007582</inverseRate>
+		<inverseDescription>1 Lebanese Pound = 0.00007582 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 48.05793656 LKR</title>
+		<link>http://www.floatrates.com/cny/lkr/</link>
+		<description>1 Chinese Yuan = 48.05793656 Sri Lanka Rupee</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>48.05793656</exchangeRate>
+		<inverseRate>0.02080822</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.02080822 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 27.00113450 LRD</title>
+		<link>http://www.floatrates.com/cny/lrd/</link>
+		<description>1 Chinese Yuan = 27.00113450 Liberian dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>27.00113450</exchangeRate>
+		<inverseRate>0.03703548</inverseRate>
+		<inverseDescription>1 Liberian dollar = 0.03703548 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.41789137 LSL</title>
+		<link>http://www.floatrates.com/cny/lsl/</link>
+		<description>1 Chinese Yuan = 2.41789137 Lesotho loti</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>2.41789137</exchangeRate>
+		<inverseRate>0.41358351</inverseRate>
+		<inverseDescription>1 Lesotho loti = 0.41358351 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.93150917 LYD</title>
+		<link>http://www.floatrates.com/cny/lyd/</link>
+		<description>1 Chinese Yuan = 0.93150917 Libyan Dinar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.93150917</exchangeRate>
+		<inverseRate>1.07352674</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 1.07352674 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.35141683 MAD</title>
+		<link>http://www.floatrates.com/cny/mad/</link>
+		<description>1 Chinese Yuan = 1.35141683 Moroccan Dirham</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>1.35141683</exchangeRate>
+		<inverseRate>0.73996414</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.73996414 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 615.12575035 MGA</title>
+		<link>http://www.floatrates.com/cny/mga/</link>
+		<description>1 Chinese Yuan = 615.12575035 Malagasy ariary</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>615.12575035</exchangeRate>
+		<inverseRate>0.00162568</inverseRate>
+		<inverseDescription>1 Malagasy ariary = 0.00162568 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 7.75822321 MKD</title>
+		<link>http://www.floatrates.com/cny/mkd/</link>
+		<description>1 Chinese Yuan = 7.75822321 Macedonian denar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>7.75822321</exchangeRate>
+		<inverseRate>0.12889549</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.12889549 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 309.47458028 MMK</title>
+		<link>http://www.floatrates.com/cny/mmk/</link>
+		<description>1 Chinese Yuan = 309.47458028 Myanma Kyat</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>309.47458028</exchangeRate>
+		<inverseRate>0.00323128</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.00323128 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 526.99337435 MNT</title>
+		<link>http://www.floatrates.com/cny/mnt/</link>
+		<description>1 Chinese Yuan = 526.99337435 Mongolian togrog</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>526.99337435</exchangeRate>
+		<inverseRate>0.00189756</inverseRate>
+		<inverseDescription>1 Mongolian togrog = 0.00189756 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.18898487 MOP</title>
+		<link>http://www.floatrates.com/cny/mop/</link>
+		<description>1 Chinese Yuan = 1.18898487 Macanese pataca</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>1.18898487</exchangeRate>
+		<inverseRate>0.84105360</inverseRate>
+		<inverseDescription>1 Macanese pataca = 0.84105360 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 5.88888290 MRU</title>
+		<link>http://www.floatrates.com/cny/mru/</link>
+		<description>1 Chinese Yuan = 5.88888290 Mauritanian ouguiya</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>5.88888290</exchangeRate>
+		<inverseRate>0.16981149</inverseRate>
+		<inverseDescription>1 Mauritanian ouguiya = 0.16981149 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 6.90367340 MUR</title>
+		<link>http://www.floatrates.com/cny/mur/</link>
+		<description>1 Chinese Yuan = 6.90367340 Mauritian Rupee</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>6.90367340</exchangeRate>
+		<inverseRate>0.14485042</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.14485042 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.27244814 MVR</title>
+		<link>http://www.floatrates.com/cny/mvr/</link>
+		<description>1 Chinese Yuan = 2.27244814 Maldivian rufiyaa</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>2.27244814</exchangeRate>
+		<inverseRate>0.44005405</inverseRate>
+		<inverseDescription>1 Maldivian rufiyaa = 0.44005405 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 255.43677221 MWK</title>
+		<link>http://www.floatrates.com/cny/mwk/</link>
+		<description>1 Chinese Yuan = 255.43677221 Malawian kwacha</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>255.43677221</exchangeRate>
+		<inverseRate>0.00391486</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.00391486 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 9.40110581 MZN</title>
+		<link>http://www.floatrates.com/cny/mzn/</link>
+		<description>1 Chinese Yuan = 9.40110581 Mozambican metical</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>9.40110581</exchangeRate>
+		<inverseRate>0.10637047</inverseRate>
+		<inverseDescription>1 Mozambican metical = 0.10637047 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.41789137 NAD</title>
+		<link>http://www.floatrates.com/cny/nad/</link>
+		<description>1 Chinese Yuan = 2.41789137 Namibian dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>2.41789137</exchangeRate>
+		<inverseRate>0.41358351</inverseRate>
+		<inverseDescription>1 Namibian dollar = 0.41358351 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 201.92938045 NGN</title>
+		<link>http://www.floatrates.com/cny/ngn/</link>
+		<description>1 Chinese Yuan = 201.92938045 Nigerian Naira</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>201.92938045</exchangeRate>
+		<inverseRate>0.00495223</inverseRate>
+		<inverseDescription>1 Nigerian Naira = 0.00495223 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 5.42219010 NIO</title>
+		<link>http://www.floatrates.com/cny/nio/</link>
+		<description>1 Chinese Yuan = 5.42219010 Nicaraguan Córdoba</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>5.42219010</exchangeRate>
+		<inverseRate>0.18442732</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 0.18442732 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 22.58129244 NPR</title>
+		<link>http://www.floatrates.com/cny/npr/</link>
+		<description>1 Chinese Yuan = 22.58129244 Nepalese Rupee</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>22.58129244</exchangeRate>
+		<inverseRate>0.04428444</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.04428444 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.05665851 OMR</title>
+		<link>http://www.floatrates.com/cny/omr/</link>
+		<description>1 Chinese Yuan = 0.05665851 Omani Rial</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.05665851</exchangeRate>
+		<inverseRate>17.64960044</inverseRate>
+		<inverseDescription>1 Omani Rial = 17.64960044 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.14737005 PAB</title>
+		<link>http://www.floatrates.com/cny/pab/</link>
+		<description>1 Chinese Yuan = 0.14737005 Panamanian Balboa</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.14737005</exchangeRate>
+		<inverseRate>6.78563941</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 6.78563941 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.50379349 PEN</title>
+		<link>http://www.floatrates.com/cny/pen/</link>
+		<description>1 Chinese Yuan = 0.50379349 Peruvian Nuevo Sol</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.50379349</exchangeRate>
+		<inverseRate>1.98494032</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 1.98494032 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 41.09478370 PKR</title>
+		<link>http://www.floatrates.com/cny/pkr/</link>
+		<description>1 Chinese Yuan = 41.09478370 Pakistani Rupee</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>41.09478370</exchangeRate>
+		<inverseRate>0.02433399</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.02433399 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 898.38050170 PYG</title>
+		<link>http://www.floatrates.com/cny/pyg/</link>
+		<description>1 Chinese Yuan = 898.38050170 Paraguayan Guaraní</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>898.38050170</exchangeRate>
+		<inverseRate>0.00111311</inverseRate>
+		<inverseDescription>1 Paraguayan Guaraní = 0.00111311 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 215.49198366 RWF</title>
+		<link>http://www.floatrates.com/cny/rwf/</link>
+		<description>1 Chinese Yuan = 215.49198366 Rwandan franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>215.49198366</exchangeRate>
+		<inverseRate>0.00464054</inverseRate>
+		<inverseDescription>1 Rwandan franc = 0.00464054 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.18275104 SBD</title>
+		<link>http://www.floatrates.com/cny/sbd/</link>
+		<description>1 Chinese Yuan = 1.18275104 Solomon Islands dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>1.18275104</exchangeRate>
+		<inverseRate>0.84548647</inverseRate>
+		<inverseDescription>1 Solomon Islands dollar = 0.84548647 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.17049054 SCR</title>
+		<link>http://www.floatrates.com/cny/scr/</link>
+		<description>1 Chinese Yuan = 2.17049054 Seychelles rupee</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>2.17049054</exchangeRate>
+		<inverseRate>0.46072534</inverseRate>
+		<inverseDescription>1 Seychelles rupee = 0.46072534 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 88.45424266 SDG</title>
+		<link>http://www.floatrates.com/cny/sdg/</link>
+		<description>1 Chinese Yuan = 88.45424266 Sudanese pound</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>88.45424266</exchangeRate>
+		<inverseRate>0.01130528</inverseRate>
+		<inverseDescription>1 Sudanese pound = 0.01130528 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 84.22198194 SOS</title>
+		<link>http://www.floatrates.com/cny/sos/</link>
+		<description>1 Chinese Yuan = 84.22198194 Somali shilling</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>84.22198194</exchangeRate>
+		<inverseRate>0.01187338</inverseRate>
+		<inverseDescription>1 Somali shilling = 0.01187338 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 5.48122879 SRD</title>
+		<link>http://www.floatrates.com/cny/srd/</link>
+		<description>1 Chinese Yuan = 5.48122879 Surinamese dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>5.48122879</exchangeRate>
+		<inverseRate>0.18244084</inverseRate>
+		<inverseDescription>1 Surinamese dollar = 0.18244084 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 693.13831764 SSP</title>
+		<link>http://www.floatrates.com/cny/ssp/</link>
+		<description>1 Chinese Yuan = 693.13831764 South Sudanese pound</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>693.13831764</exchangeRate>
+		<inverseRate>0.00144271</inverseRate>
+		<inverseDescription>1 South Sudanese pound = 0.00144271 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 3.08542656 STN</title>
+		<link>http://www.floatrates.com/cny/stn/</link>
+		<description>1 Chinese Yuan = 3.08542656 São Tomé and Príncipe Dobra</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>3.08542656</exchangeRate>
+		<inverseRate>0.32410430</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 0.32410430 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.28949421 SVC</title>
+		<link>http://www.floatrates.com/cny/svc/</link>
+		<description>1 Chinese Yuan = 1.28949421 Salvadoran colon</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>1.28949421</exchangeRate>
+		<inverseRate>0.77549786</inverseRate>
+		<inverseDescription>1 Salvadoran colon = 0.77549786 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.41789137 SZL</title>
+		<link>http://www.floatrates.com/cny/szl/</link>
+		<description>1 Chinese Yuan = 2.41789137 Swazi lilangeni</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>2.41789137</exchangeRate>
+		<inverseRate>0.41358351</inverseRate>
+		<inverseDescription>1 Swazi lilangeni = 0.41358351 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.37820337 TJS</title>
+		<link>http://www.floatrates.com/cny/tjs/</link>
+		<description>1 Chinese Yuan = 1.37820337 Tajikistan Ruble</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>1.37820337</exchangeRate>
+		<inverseRate>0.72558232</inverseRate>
+		<inverseDescription>1 Tajikistan Ruble = 0.72558232 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.51579516 TMT</title>
+		<link>http://www.floatrates.com/cny/tmt/</link>
+		<description>1 Chinese Yuan = 0.51579516 New Turkmenistan Manat</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>0.51579516</exchangeRate>
+		<inverseRate>1.93875412</inverseRate>
+		<inverseDescription>1 New Turkmenistan Manat = 1.93875412 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.34440917 TOP</title>
+		<link>http://www.floatrates.com/cny/top/</link>
+		<description>1 Chinese Yuan = 0.34440917 Tongan paʻanga</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>0.34440917</exchangeRate>
+		<inverseRate>2.90352320</inverseRate>
+		<inverseDescription>1 Tongan paʻanga = 2.90352320 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.99689502 TTD</title>
+		<link>http://www.floatrates.com/cny/ttd/</link>
+		<description>1 Chinese Yuan = 0.99689502 Trinidad Tobago Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.99689502</exchangeRate>
+		<inverseRate>1.00311465</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 1.00311465 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 381.79035451 TZS</title>
+		<link>http://www.floatrates.com/cny/tzs/</link>
+		<description>1 Chinese Yuan = 381.79035451 Tanzanian shilling</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>381.79035451</exchangeRate>
+		<inverseRate>0.00261924</inverseRate>
+		<inverseDescription>1 Tanzanian shilling = 0.00261924 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 552.63515806 UGX</title>
+		<link>http://www.floatrates.com/cny/ugx/</link>
+		<description>1 Chinese Yuan = 552.63515806 Ugandan shilling</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>552.63515806</exchangeRate>
+		<inverseRate>0.00180951</inverseRate>
+		<inverseDescription>1 Ugandan shilling = 0.00180951 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 5.88355582 UYU</title>
+		<link>http://www.floatrates.com/cny/uyu/</link>
+		<description>1 Chinese Yuan = 5.88355582 Uruguayan Peso</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>5.88355582</exchangeRate>
+		<inverseRate>0.16996524</inverseRate>
+		<inverseDescription>1 Uruguayan Peso = 0.16996524 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1776.83796335 UZS</title>
+		<link>http://www.floatrates.com/cny/uzs/</link>
+		<description>1 Chinese Yuan = 1776.83796335 Uzbekistan Sum</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>1776.83796335</exchangeRate>
+		<inverseRate>0.00056280</inverseRate>
+		<inverseDescription>1 Uzbekistan Sum = 0.00056280 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 75.18064946 VES</title>
+		<link>http://www.floatrates.com/cny/ves/</link>
+		<description>1 Chinese Yuan = 75.18064946 Venezuelan Bolivar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>75.18064946</exchangeRate>
+		<inverseRate>0.01330130</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.01330130 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 17.19527110 VUV</title>
+		<link>http://www.floatrates.com/cny/vuv/</link>
+		<description>1 Chinese Yuan = 17.19527110 Vanuatu vatu</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>17.19527110</exchangeRate>
+		<inverseRate>0.05815552</inverseRate>
+		<inverseDescription>1 Vanuatu vatu = 0.05815552 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.39560206 WST</title>
+		<link>http://www.floatrates.com/cny/wst/</link>
+		<description>1 Chinese Yuan = 0.39560206 Samoan tala</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>0.39560206</exchangeRate>
+		<inverseRate>2.52779271</inverseRate>
+		<inverseDescription>1 Samoan tala = 2.52779271 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.39789409 XCD</title>
+		<link>http://www.floatrates.com/cny/xcd/</link>
+		<description>1 Chinese Yuan = 0.39789409 East Caribbean Dollar</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>0.39789409</exchangeRate>
+		<inverseRate>2.51323160</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 2.51323160 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.26379767 XCG</title>
+		<link>http://www.floatrates.com/cny/xcg/</link>
+		<description>1 Chinese Yuan = 0.26379767 Caribbean guilder</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>XCG</targetCurrency>
+		<targetName>Caribbean guilder</targetName>
+		<exchangeRate>0.26379767</exchangeRate>
+		<inverseRate>3.79078400</inverseRate>
+		<inverseDescription>1 Caribbean guilder = 3.79078400 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 15.02813045 XPF</title>
+		<link>http://www.floatrates.com/cny/xpf/</link>
+		<description>1 Chinese Yuan = 15.02813045 CFP Franc</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>15.02813045</exchangeRate>
+		<inverseRate>0.06654188</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.06654188 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 35.15497236 YER</title>
+		<link>http://www.floatrates.com/cny/yer/</link>
+		<description>1 Chinese Yuan = 35.15497236 Yemeni rial</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>35.15497236</exchangeRate>
+		<inverseRate>0.02844548</inverseRate>
+		<inverseDescription>1 Yemeni rial = 0.02844548 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.78496898 ZMW</title>
+		<link>http://www.floatrates.com/cny/zmw/</link>
+		<description>1 Chinese Yuan = 2.78496898 Zambian kwacha</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>2.78496898</exchangeRate>
+		<inverseRate>0.35907043</inverseRate>
+		<inverseDescription>1 Zambian kwacha = 0.35907043 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.41131075 BYN</title>
+		<link>http://www.floatrates.com/cny/byn/</link>
+		<description>1 Chinese Yuan = 0.41131075 Belarussian Ruble</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>0.41131075</exchangeRate>
+		<inverseRate>2.43125177</inverseRate>
+		<inverseDescription>1 Belarussian Ruble = 2.43125177 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 193315.45245120 IRR</title>
+		<link>http://www.floatrates.com/cny/irr/</link>
+		<description>1 Chinese Yuan = 193315.45245120 Iranian rial</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>193315.45245120</exchangeRate>
+		<inverseRate>0.00000517</inverseRate>
+		<inverseDescription>1 Iranian rial = 0.00000517 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 3225.80604391 LAK</title>
+		<link>http://www.floatrates.com/cny/lak/</link>
+		<description>1 Chinese Yuan = 3225.80604391 Lao kip</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>3225.80604391</exchangeRate>
+		<inverseRate>0.00031000</inverseRate>
+		<inverseDescription>1 Lao kip = 0.00031000 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 17.02705343 SYP</title>
+		<link>http://www.floatrates.com/cny/syp/</link>
+		<description>1 Chinese Yuan = 17.02705343 Syrian pound</description>
+		<pubDate>Thu, 14 May 2026 14:55:10 GMT</pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>17.02705343</exchangeRate>
+		<inverseRate>0.05873007</inverseRate>
+		<inverseDescription>1 Syrian pound = 0.05873007 Chinese Yuan</inverseDescription>
+	</item>
+</channel>
