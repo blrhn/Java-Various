@@ -8,3 +8,4 @@
 - [Catering system; Hibernate/SpringBoot](https://github.com/blrhn/Java-Various/tree/main/lab06)
 - [Sobel filter; Benchmarks for convolution calculations in Java and native implementations (JNI)](https://github.com/blrhn/Java-Various/tree/main/lab07)
 - [XML Parsers (JAXB, JAXP (SAX, DOM), and XSLT Transformation)](https://github.com/blrhn/Java-Various/tree/main/lab08)
+- [Netty client/server chat (text & files)](https://github.com/blrhn/Java-Various/tree/main/lab09)
